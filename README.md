@@ -10,14 +10,14 @@ Unlike a single dark/light pair, this plugin ships the full Gruvbox contrast mat
 
 ### Variants
 
-| Theme | Editor background | Window chrome |
-| :--- | :--- | :--- |
-| **Gruvbox Dark Hard Island** | `#1d2021` | `#101415` |
-| **Gruvbox Dark Medium Island** | `#282828` | `#1d2021` |
-| **Gruvbox Dark Soft Island** | `#32302f` | `#282828` |
-| **Gruvbox Light Hard Island** | `#f9f5d7` | `#f2e5bc` |
-| **Gruvbox Light Medium Island** | `#fbf1c7` | `#ebdbb2` |
-| **Gruvbox Light Soft Island** | `#f2e5bc` | `#d5c4a1` |
+| Theme | Editor background | Window chrome | Image
+| :--- | :--- | :--- | :--- |
+| **Gruvbox Dark Hard Island** | `#1d2021` | `#101415` | ![Description](./images/gruvbox-dark-hard-island.png) 
+| **Gruvbox Dark Medium Island** | `#282828` | `#1d2021` |  ![Description](./images/gruvbox-dark-medium-island.png)
+| **Gruvbox Dark Soft Island** | `#32302f` | `#282828` | ![Description](./images/gruvbox-dark-soft-island.png)
+| **Gruvbox Light Hard Island** | `#f9f5d7` | `#f2e5bc` |  ![Description](./images/gruvbox-light-hard-island.png)
+| **Gruvbox Light Medium Island** | `#fbf1c7` | `#ebdbb2` |  ![Description](./images/gruvbox-light-medium-island.png)
+| **Gruvbox Light Soft Island** | `#f2e5bc` | `#d5c4a1` | ![Description](./images/gruvbox-light-soft-island.png)
 
 As in upstream Gruvbox, hard / medium / soft differ only in the background ladder —
 foreground, accent and syntax colors are identical across the three.
