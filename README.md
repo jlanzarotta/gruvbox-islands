@@ -54,7 +54,7 @@ stock JetBrains blue.
 ### Building locally
 
 ```
-./gradlew runIde
+./gradlew buildPlugin
 ```
 
 ### Acknowledgments
