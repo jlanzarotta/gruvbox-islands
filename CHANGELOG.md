@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# Gruvbox Island Changelog
+# Gruvbox Islands Changelog
 
 ## [Unreleased]
 
@@ -8,7 +8,7 @@
 
 ### Added
 
-- Initial release of **Gruvbox Island**.
+- Initial release of **Gruvbox Islands**.
 - Six Islands (New UI) theme variants: `gruvbox_dark_hard`, `gruvbox_dark_medium`,
   `gruvbox_dark_soft`, `gruvbox_light_hard`, `gruvbox_light_medium`,
   `gruvbox_light_soft`.

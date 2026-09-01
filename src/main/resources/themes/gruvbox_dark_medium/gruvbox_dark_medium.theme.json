@@ -1,7 +1,7 @@
 {
   "author": "Matias Cordon",
   "dark": true,
-  "name": "Gruvbox Dark Medium Island",
+  "name": "Gruvbox Dark Medium Islands",
   "editorScheme": "/themes/gruvbox_dark_medium/gruvbox_dark_medium.xml",
   "icons": {
     "/com/intellij/ide/ui/laf/icons/darcula/checkBox.svg": "/themes/icons/dark/checkBox.svg",
@@ -377,7 +377,7 @@
       "selectedHoveredBackground": "BlueTint_30",
       "selectedPressedBackground": "BlueTint_25"
     },
-    "Island": {
+    "Islands": {
       "borderColor": "Neutral_30"
     }
   },

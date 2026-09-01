@@ -26,14 +26,27 @@ go.work
 # Visual Studio Code related stuff.
 .vscode
 
-# Github token.
+# Github token. Both cases: Git is case-insensitive on Windows but NOT on
+# Linux/macOS, so the lowercase pattern alone does not protect a clone.
 github_token
+GITHUB_TOKEN
+*.token
 
 # goreleaser dist directory.
 dist/
 
+# Gradle caches and build output.
 .gradle/
 .intellijPlatform/
+.qodana/
 .run/
 build/
-gradle/
+
+# NOTE: gradle/ must NOT be ignored. It holds the version catalog
+# (gradle/libs.versions.toml) that build.gradle.kts resolves every `libs.*`
+# reference against, plus the wrapper. Ignoring it makes fresh clones
+# unbuildable. Belt-and-braces against a global excludesFile with *.jar:
+!gradle/
+!gradle/libs.versions.toml
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties

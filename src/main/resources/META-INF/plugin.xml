@@ -1,9 +1,9 @@
 <idea-plugin>
-    <id>com.jlanzarotta.gruvbox.island</id>
+    <id>com.jlanzarotta.gruvbox.islands</id>
 
-    <name>Gruvbox Island</name>
+    <name>Gruvbox Islands Light/Dark Hard/Medium/Soft</name>
 
-    <vendor url="https://github.com/jlanzarotta/gruvbox-island">Jeff Lanzarotta</vendor>
+    <vendor url="https://github.com/jlanzarotta/gruvbox-islands">Jeff Lanzarotta</vendor>
 
     <description><![CDATA[
       A Gruvbox theme family for the Islands UI.
@@ -15,37 +15,37 @@
     <extensions defaultExtensionNs="com.intellij">
 
         <themeProvider
-                id="com.jlanzarotta.gruvbox.island.gruvbox_dark_hard"
+                id="com.jlanzarotta.gruvbox.islands.gruvbox_dark_hard"
                 path="themes/gruvbox_dark_hard/gruvbox_dark_hard.theme.json"
                 targetUi="islands"
         />
 
         <themeProvider
-                id="com.jlanzarotta.gruvbox.island.gruvbox_dark_medium"
+                id="com.jlanzarotta.gruvbox.islands.gruvbox_dark_medium"
                 path="themes/gruvbox_dark_medium/gruvbox_dark_medium.theme.json"
                 targetUi="islands"
         />
 
         <themeProvider
-                id="com.jlanzarotta.gruvbox.island.gruvbox_dark_soft"
+                id="com.jlanzarotta.gruvbox.islands.gruvbox_dark_soft"
                 path="themes/gruvbox_dark_soft/gruvbox_dark_soft.theme.json"
                 targetUi="islands"
         />
 
         <themeProvider
-                id="com.jlanzarotta.gruvbox.island.gruvbox_light_hard"
+                id="com.jlanzarotta.gruvbox.islands.gruvbox_light_hard"
                 path="themes/gruvbox_light_hard/gruvbox_light_hard.theme.json"
                 targetUi="islands"
         />
 
         <themeProvider
-                id="com.jlanzarotta.gruvbox.island.gruvbox_light_medium"
+                id="com.jlanzarotta.gruvbox.islands.gruvbox_light_medium"
                 path="themes/gruvbox_light_medium/gruvbox_light_medium.theme.json"
                 targetUi="islands"
         />
 
         <themeProvider
-                id="com.jlanzarotta.gruvbox.island.gruvbox_light_soft"
+                id="com.jlanzarotta.gruvbox.islands.gruvbox_light_soft"
                 path="themes/gruvbox_light_soft/gruvbox_light_soft.theme.json"
                 targetUi="islands"
         />

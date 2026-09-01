@@ -1,7 +1,7 @@
 {
   "author": "Matias Cordon",
   "dark": false,
-  "name": "Gruvbox Light Soft Island",
+  "name": "Gruvbox Light Soft Islands",
   "editorScheme": "/themes/gruvbox_light_soft/gruvbox_light_soft.xml",
   "icons": {
     "/com/intellij/ide/ui/laf/icons/checkBox.svg": "/themes/icons/light/checkBox.svg",
@@ -382,7 +382,7 @@
       "selectedHoveredBackground": "BlueTint_30",
       "selectedPressedBackground": "BlueTint_25"
     },
-    "Island": {
+    "Islands": {
       "borderColor": "Neutral_30"
     }
   },
