@@ -8,6 +8,9 @@ IntelliJ-based IDEs, reimagined for the modern **Islands (New UI)** aesthetic.
 Unlike a single dark/light pair, this plugin ships the full Gruvbox contrast matrix:
 **dark** and **light**, each in **hard**, **medium** and **soft**.
 
+### Note
+This theme derives from the theme created by nowheremat @ https://plugins.jetbrains.com/plugin/29610-gruvbox-island
+
 ### Variants
 
 | Theme | Editor background | Window chrome | Image
